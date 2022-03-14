@@ -1,0 +1,4 @@
+&6Welcome, {PLAYER}&6!
+&6Type &c/help&6 for a list of commands.
+&6Currently online:&r {PLAYERLIST}
+&aUse /register to protect this username with a password
